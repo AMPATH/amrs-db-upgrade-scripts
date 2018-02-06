@@ -1,0 +1,1 @@
+#Rename obs to obs_old and drop foreign keys to avoid name collisions
